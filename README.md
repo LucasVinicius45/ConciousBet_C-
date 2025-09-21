@@ -73,8 +73,8 @@ Antes de executar o projeto, certifique-se de ter instalado:
 
 ### 1. Clonar o Repositório
 ```bash
-git clone https://github.com/seu-usuario/consciousbet.git
-cd consciousbet
+git clone https://github.com/LucasVinicius45/Consciousbet
+cd consciousbet_Csharp
 ```
 
 ### 2. Instalar Dependências NuGet
