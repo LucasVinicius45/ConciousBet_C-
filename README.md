@@ -207,23 +207,14 @@ ConsciousBet/
 - **SQL Injection Protection**: Uso de parâmetros nas queries
 - **Validação de Email**: Verificação de formato e unicidade
 
-## 🤝 Contribuição
+---
 
-1. Faça um fork do projeto
-2. Crie uma branch para sua feature (`git checkout -b feature/MinhaFeature`)
-3. Commit suas mudanças (`git commit -m 'Add: Minha nova feature'`)
-4. Push para a branch (`git push origin feature/MinhaFeature`)
-5. Abra um Pull Request
+## 👤 Autores
 
-## 📝 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para detalhes.
-
-## 👤 Autor
-
-**Seu Nome**
-- GitHub: [@seu-usuario](https://github.com/seu-usuario)
-- Email: seu.email@exemplo.com
+- **Irana Pereira** – RM98593
+- **Lucas Vinicius** – RM98480
+- **Mariana Melo** – RM98121
+- **Mateus Iago** – RM550270
 
 ---
 
