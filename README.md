@@ -73,7 +73,7 @@ Antes de executar o projeto, certifique-se de ter instalado:
 
 ### 1. Clonar o Repositório
 ```bash
-git clone https://github.com/LucasVinicius45/Consciousbet
+https://github.com/LucasVinicius45/ConsciousBet_Csharp.git
 cd consciousbet_Csharp
 ```
 
