@@ -208,6 +208,13 @@ ConsciousBet/
 - **Validação de Email**: Verificação de formato e unicidade
 
 ---
+---
+## 📊 Diagramas do Projeto
+
+### Arquitetura
+[🔗 Ver Arquitetura](documentos/img/diagrama.png)
+
+---
 
 ## 👤 Autores
 
